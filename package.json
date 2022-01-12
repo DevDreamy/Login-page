@@ -17,10 +17,8 @@
     "url": "https://github.com/DevDreamy/login-page/issues"
   },
   "homepage": "https://github.com/DevDreamy/login-page#readme",
-  "dependencies": {
-    "prettier": "^2.5.1"
-  },
   "devDependencies": {
-    "eslint": "^8.6.0"
+    "eslint": "^8.6.0",
+    "prettier": "^2.5.1"
   }
 }
